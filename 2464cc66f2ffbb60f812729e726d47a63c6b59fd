@@ -1,0 +1,1 @@
+{"jobID":"e5f9650d-aeae-0dd5-e284-5e7a97cbe2db","spec":{"type":"policy","cause":{"Message":"","User":"Todd A. Mancini \u003ctodd.mancini@daxat.com\u003e"},"spec":{"lyfevest:deployment/lyfevestio-api":{"add":{"tag_all":"glob:0.*"},"remove":{}}}},"result":null}
