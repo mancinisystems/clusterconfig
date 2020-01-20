@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: "lyfevestio-api"
-        image: "gcr.io/lyfevest-io-prod-73019/github.com/lyfevest/lyfevestio-api:e85139f"
+        image: "gcr.io/lyfevest-io-prod-73019/github.com/lyfevest/lyfevestio-api:85368bd"
         ports:
         - name: http
           containerPort: 80
